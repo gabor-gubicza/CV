@@ -1,5 +1,5 @@
-# CV
-Gabor Gubicza CV and carreer docs
+# PUBLICATIONS
+Gabor Gubicza PUBLICATIONS
 
 **1) On the steerability of phased array EMATs: The dipole element**
 
