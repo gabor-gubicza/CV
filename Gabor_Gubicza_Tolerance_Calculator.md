@@ -2,7 +2,20 @@
 
 by Gabor Gubicza
 
-The
+The program helps Machine Shop Technicians and Mechanical Engineers in translating ISO tolerances into specific tolerance zones in mm and um.
+
+## Principle Operation
+
+- The program takes a String as a user input
+- It performs error checking and correction, such as deleting non-alphanumeric characters
+- After correction three main parameters are extracted from the String
+  - Dimension (Nominal parameter)
+  - Hole Tolerance designator (if exists)
+  - Shaft Tolerance designator (if exists)
+- It parses two ISO Tolerance Tables as Excel Spreadsheets and converts them to JSON objects
+- The program then searches separately in the table for the Hole and Shaft parameters: It checks which column does the dimension lie in.
+  It checks which row does the Tolerance Designator corresponds to.
+- It then extracts the minimum and maximum values, and Console Logs it.
 
 ## Block Diagram
 
