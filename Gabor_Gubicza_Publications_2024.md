@@ -32,5 +32,12 @@ Rollo Jarvis EngD Thesis
 
 https://spiral.imperial.ac.uk/bitstream/10044/1/56865/1/Jarvis-R-2018-EngD-Thesis.pdf
 
+<br/><br/>
+
+**5) Texture Determination from Ultrasound for HCP and Cubic Materials**
+
+Bo Lan PhD Thesis 2014
+
+[https://spiral.imperial.ac.uk/bitstream/10044/1/56865/1/Jarvis-R-2018-EngD-Thesis.pdf](https://www.academia.edu/16943150/Texture_Determination_from_Ultrasound_for_HCP_and_Cubic_Materials?email_work_card=view-paper)
 
 
